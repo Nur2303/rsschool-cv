@@ -3,6 +3,7 @@
 ## Contacts
   * Location: Almaty, Kazakhstan
   * Phone: +7 000 000 00.
+  * Email:nurbek.djusupaliev2@gmail.com
   * Github: Nur2303.
 
 ## About me
@@ -12,6 +13,8 @@
 ## Experience
 I have no work experience.
 
-## Enlish level
+## Languages
 
-Between B1(Intermediate) and B2 (Upper Intermediate)
+* English - (between B1 and B2)
+* Russian - (fluent)
+* Kazakh - (intermediate)
