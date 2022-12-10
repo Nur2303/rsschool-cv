@@ -1,4 +1,4 @@
-# Nurbek 
+# Nurbek D.
 
 ## Contacts
   * Location: Almaty, Kazakhstan
@@ -10,7 +10,7 @@
 
 
 ## Experience
-I have no experience.
+I have no work experience.
 
 ## Enlish level
 
