@@ -1,9 +1,8 @@
-# Nurbek D.
+# Nurbek Djusupaliev.
 
 ## Contacts
   * Location: Almaty, Kazakhstan
   * Phone: +7 000 000 00.
-  * Email:nurbek.djusupaliev2@gmail.com
   * Github: Nur2303.
 
 ## About me
